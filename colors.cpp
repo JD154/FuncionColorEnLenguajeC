@@ -15,9 +15,9 @@ int main(int argc, char** argv) {
 	
 	for (int i=0; i<255; i++){
 		
-		color (i);
+		color (i);		//LA LINEA 'COLOR ();' DEBE SER INCLUIDA ANTES DE LO QUE VAS A IMPRIMIR Y DENTRO DEL PARÉNTESIS INCLUYES EL CÓDIGO DEL COLOR
 		printf ("HOLA MUNDO = %d\n\n", i);
-		color (8);
+		color (8);		//ESTA LINEA DEVUELVE A LAS SUBSECUENTES EL COLOR GRIS ORIGINAL DE LA CONSOLA, DE LO CONTRARIO IMPRIMIRÁ TODO DEL ÚLTIMO COLOR IMPRESO
 	}
 	
 	getch();
