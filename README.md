@@ -7,7 +7,7 @@ Acotaciones del algoritmo:
 
 2.- Solo debes pegar esa función en tu programa para darle uso.
 
-3.- "color (i);" se coloca antes de la linea de texto de desees imprimir en el color, siendo "i" el número del color.	
+3.- "color (i);" se coloca antes de la linea de texto de desees imprimir de color, siendo "i" el número del color.	
 
 4.- "color (8);" le devuelve el gris caracteristico a la consola, sin esta seguirá imprimiendo en el último color seleccionado. 
 
