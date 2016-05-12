@@ -1,6 +1,6 @@
 #include <iostream>
 #include <conio.h>
-#include <windows.h>
+#include <windows.h> 	//LA LIBRERÍA 'windows.h' ES NECESARIA PARA LA FUNCIÓN COLOR
 
 
 //DECLARACIÓN DE LA FUNCIÓN COLOR	
