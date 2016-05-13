@@ -17,3 +17,5 @@ Acotaciones del algoritmo:
 
 
 Creado por estudiante del primer semestre de ingeniería en Informática de la Universidad Nacional Experimental del Táchira.
+
+Si tienes alguna inquietud con el código, puedes escribirme a: jesus.blancof@unet.edu.ve 
